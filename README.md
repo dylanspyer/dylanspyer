@@ -1,5 +1,5 @@
 # Hello 👋 I'm Dylan Spyer 🙂👨‍💻
-## Full Stack Software Engineer
+_Full Stack Software Engineer_
 
 🚀 Passionate about learning and problem-solving through code, I thrive on tackling complex challenges with creative solutions. My experience as a senior program manager at Amazon has honed my ability to organize, communicate, and execute tasks efficiently. I bring a methodical and results-driven approach to every project. 
 
