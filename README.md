@@ -1,17 +1,18 @@
   # Hello 👋 I'm Dylan Spyer 🙂👨‍💻
 
-💻 Hi, I'm Dylan. I'm a software engineer based out of Austin, TX 🤠. Passionate about learning and problem-solving through code, I thrive on tackling complex challenges with creative solutions. My experience as a senior program manager at Amazon has honed my ability to organize, communicate, and execute tasks efficiently. I bring a methodical and results-driven approach to every project.🌱
+💻 Hi, I'm Dylan. I'm a software engineer based out of Austin, TX 🤠. Passionate about learning and problem-solving through code, I thrive on tackling complex challenges with creative solutions. My experience as a senior program manager at Amazon has honed my ability to organize, communicate, and execute tasks efficiently. I bring a methodical and results-driven approach to every project. 🌱
 
 ### 🧠 Cerebellum Realtime
 
-Most recently, I co-created Cerebellum. Cerebellum is an open-source cloud-based infrastructure and library that provides an easy way to develop realtime web applications built to scale. ✨
-
+🔭 Most recently, I co-created Cerebellum. Cerebellum is an open-source cloud-based infrastructure and library that provides an easy way to develop realtime web applications built to scale. It takes care of common realtime requirements such as connection state recovery, data persistence, user presence, authentication, and more. ✨
 
 ### 🌴 Outside of Work
 
 I'm usually coaching or practicing Brazilian Jiu Jitsu, playing chess, or trying something new. Most recently, I started learning to play the piano 🎹.
 
 ### 📫 How to Reach Me
+
+🚀 I'm looking for my next opportunity. If you'd like to collaborate 👯, please reach out! 
 <div>
   <a href=mailto:dylanspyer@gmail.com>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -27,6 +28,7 @@ I'm usually coaching or practicing Brazilian Jiu Jitsu, playing chess, or trying
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Ruby](https://img.shields.io/badge/-Ruby-cc342d?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
 [![Sinatra](https://img.shields.io/badge/-Sinatra-CC342D?style=for-the-badge&logo=sinatra&logoColor=white)](http://sinatrarb.com/)
@@ -43,7 +45,7 @@ I'm usually coaching or practicing Brazilian Jiu Jitsu, playing chess, or trying
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
