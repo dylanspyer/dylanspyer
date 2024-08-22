@@ -15,7 +15,7 @@ Outside of work, I enjoy coaching Brazilian Jiu Jitsu, playing chess, and contin
 
 I'm usually coaching or practicing Brazilian Jiu Jitsu, playing chess, or trying something new. Most recently, I started learning to play the piano 🎹.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ### 📫 How to Reach Me
 <div>
   <a href=https://www.linkedin.com/in/dylan-spyer/>
