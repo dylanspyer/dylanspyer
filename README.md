@@ -19,9 +19,11 @@ I'm usually coaching or practicing Brazilian Jiu Jitsu, playing chess, or trying
 ### 📫 How to Reach Me
 <div>
   <a href=https://www.linkedin.com/in/dylan-spyer/>
-    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
   <a/>
-  
+  <a href=https://www.linkedin.com/in/dylan-spyer/>
+    <img src=https://www.linkedin.com/in/dylan-spyer/ />
+  <a/>
 </div>
 
 ## 🛠️ Technologies and tools I have experience with:
