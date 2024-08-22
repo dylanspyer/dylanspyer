@@ -1,7 +1,6 @@
 # Hello 👋 I'm Dylan Spyer 🙂👨‍💻
-_Full Stack Software Engineer_
 
-🚀 Passionate about learning and problem-solving through code, I thrive on tackling complex challenges with creative solutions. My experience as a senior program manager at Amazon has honed my ability to organize, communicate, and execute tasks efficiently. I bring a methodical and results-driven approach to every project. 
+🚀 Hi, I'm Dylan. I'm a software engineer based out of Austin, TX 🤠. Passionate about learning and problem-solving through code, I thrive on tackling complex challenges with creative solutions. My experience as a senior program manager at Amazon has honed my ability to organize, communicate, and execute tasks efficiently. I bring a methodical and results-driven approach to every project. ✨
 
 
 Most recently, I co-created Cerebellum. Cerebellum is an open-source cloud-based infrastructure and library that provides an easy way to develop realtime web applications built to scale.
