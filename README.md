@@ -17,7 +17,7 @@ I'm usually coaching or practicing Brazilian Jiu Jitsu, playing chess, or trying
 
 ### 📫 How to Reach Me
 <div>
-  <a href=dylanspyer@gmail.com>
+  <a href=mailto:dylanspyer@gmail.com>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   <a/>
   <a href=https://www.linkedin.com/in/dylan-spyer/>
