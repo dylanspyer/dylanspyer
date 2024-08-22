@@ -1,4 +1,4 @@
-# Hello 👋 I'm Dylan Spyer 🙂👨‍💻
+  # Hello 👋 I'm Dylan Spyer 🙂👨‍💻
 
 🚀 Hi, I'm Dylan. I'm a software engineer based out of Austin, TX 🤠. Passionate about learning and problem-solving through code, I thrive on tackling complex challenges with creative solutions. My experience as a senior program manager at Amazon has honed my ability to organize, communicate, and execute tasks efficiently. I bring a methodical and results-driven approach to every project. ✨
 
@@ -15,10 +15,9 @@ Outside of work, I enjoy coaching Brazilian Jiu Jitsu, playing chess, and contin
 
 I'm usually coaching or practicing Brazilian Jiu Jitsu, playing chess, or trying something new. Most recently, I started learning to play the piano 🎹.
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ### 📫 How to Reach Me
 <div>
-  <a href=https://www.linkedin.com/in/dylan-spyer/>
+  <a href=dylanspyer@gmail.com>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   <a/>
   <a href=https://www.linkedin.com/in/dylan-spyer/>
