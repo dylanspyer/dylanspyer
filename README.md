@@ -4,23 +4,9 @@
 
 ### 🧠 Cerebellum Realtime
 
-🔭 Most recently, I co-created Cerebellum. Cerebellum is an open-source cloud-based infrastructure and library that provides an easy way to develop realtime web applications built to scale. It takes care of common realtime requirements such as connection state recovery, data persistence, user presence, authentication, and more. ✨
+🔭 Most recently, I co-created [Cerebellum](https://cerebellum-realtime.github.io/). Cerebellum is an open-source cloud-based infrastructure and library that provides an easy way to develop realtime web applications built to scale. It takes care of common realtime requirements such as connection state recovery, data persistence, user presence, authentication, and more. ✨
 
-### 🌴 Outside of Work
-
-I'm usually coaching or practicing Brazilian Jiu Jitsu, playing chess, or trying something new. Most recently, I started learning to play the piano 🎹.
-
-### 📫 How to Reach Me
-
-🚀 I'm looking for my next opportunity. If you'd like to collaborate 👯, please reach out! 
-<div>
-  <a href=mailto:dylanspyer@gmail.com>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  <a/>
-  <a href=https://www.linkedin.com/in/dylan-spyer/>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  <a/>
-</div>
+🤓 [Read the Cerebellum case study](https://cerebellum-realtime.github.io/case-study)
 
 ## 🛠️ Technologies and tools I have experience with:
 
@@ -40,3 +26,19 @@ I'm usually coaching or practicing Brazilian Jiu Jitsu, playing chess, or trying
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Nginx](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+
+### 📫 How to Reach Me
+
+🚀 I'm looking for my next opportunity. If you'd like to collaborate 👯, please reach out! 
+<div>
+  <a href=mailto:dylanspyer@gmail.com>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a/>
+  <a href=https://www.linkedin.com/in/dylan-spyer/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a/>
+</div>
+
+### 🌴 Outside of Work
+
+I'm usually coaching or practicing Brazilian Jiu Jitsu, playing chess, or trying something new. Most recently, I started learning to play the piano 🎹.
