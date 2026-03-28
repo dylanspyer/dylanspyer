@@ -1,12 +1,6 @@
-  # Hello 👋 I'm Dylan Spyer 🙂👨‍💻
+  # Hello 👋🙂👨‍💻
 
-💻 Hi, I'm Dylan. I'm a software engineer based out of Austin, TX 🤠. Passionate about learning and problem-solving through code, I thrive on tackling complex challenges with creative solutions. My experience as a Senior Program Manager at Amazon has honed my ability to organize, communicate, and execute tasks efficiently. I bring a methodical and results-driven approach to every project. 🌱
-
-### 🧠 Cerebellum Realtime
-
-🔭 Most recently, I co-created [Cerebellum](https://cerebellum-realtime.github.io/). Cerebellum is an open-source cloud-based infrastructure and library that provides an easy way to develop realtime web applications built to scale. It takes care of common realtime requirements such as connection state recovery, data persistence, user presence, authentication, and more. ✨
-
-🤓 [Read the Cerebellum case study](https://cerebellum-realtime.github.io/case-study)
+💻 Hi, I'm Dylan. I'm a software engineer based out of Austin, TX 🤠. I'm currently working as a Software Engineer at Toro TMS 🚚. In a past life, I worked as a PM at Amazon.
 
 ## 🛠️ Technologies and tools I have experience with:
 
@@ -29,7 +23,6 @@
 
 ### 📫 How to Reach Me
 
-🚀 I'm looking for my next opportunity. If you'd like to collaborate 👯, please reach out! 
 <div>
   <a href=mailto:dylanspyer@gmail.com>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
